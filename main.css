@@ -1,0 +1,9 @@
+/* main.css */
+
+/* importing other css files */
+@import "./header.css";
+@import "./layout.css";
+@import "./footer.css";
+@import "./BlogPost.css";
+
+/* additional styles for the portfolio */
